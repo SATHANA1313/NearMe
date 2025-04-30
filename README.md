@@ -75,7 +75,7 @@ lake.html
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2025-04-16 105822.png>)
+![alt text](<Screenshot 2025-04-16 105822-1.png>)
 ![alt text](temple.png)
 ![alt text](cinema.png)
 ![alt text](lake-1.png)
